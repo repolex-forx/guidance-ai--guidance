@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/guidance-ai/guidance/commit/21b1d90dfbebff4b141df70c714c8af15aa5f4af",
       "git:hexsha": "21b1d90dfbebff4b141df70c714c8af15aa5f4af",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-17T08:37:53.466660+00:00"
     },
     {
       "@id": "https://repolex.ai/r/guidance-ai/guidance/commit/084489605b08f32451c7f1c16995f37c14d7d68c",
